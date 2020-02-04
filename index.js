@@ -1,2 +1,2 @@
 console.error("HALP!")
-console.error("ATM not displaying!");
+console.log("ATM not displaying!");
